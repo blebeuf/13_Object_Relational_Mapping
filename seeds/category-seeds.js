@@ -1,3 +1,4 @@
+// all provide from NW
 const { Category } = require('../models');
 
 const categoryData = [

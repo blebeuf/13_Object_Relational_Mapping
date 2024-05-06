@@ -1,3 +1,4 @@
+// all provide from NW
 const { Product } = require('../models');
 
 const productData = [

@@ -1,3 +1,4 @@
+// all provide from NW
 const { ProductTag } = require('../models');
 
 const productTagData = [
