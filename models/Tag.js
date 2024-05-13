@@ -16,7 +16,7 @@ Tag.init(
     tag_name: {
       type: DataTypes.STRING, // Set the data type of the 'tag_name' field to string
       // ALSO one could do allowNull defaults to true, allowing 'tag_name' to be optional
-    }
+    },
   },
   {
     sequelize,

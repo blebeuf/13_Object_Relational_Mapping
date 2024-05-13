@@ -24,7 +24,7 @@ const tagData = [
     tag_name: 'gold',
   },
   {
-    tag_name: 'pop culture',
+    tag_name: 'orange',
   },
 ];
 
